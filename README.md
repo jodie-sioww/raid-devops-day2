@@ -18,7 +18,7 @@ Runs on **port 3001** and exposes a single endpoint:
 ```bash
 cd backend
 npm install
-npm start      # uses ts-node
+npm run dev
 # or
 npm run build  # compiles to dist/
 node dist/index.js
